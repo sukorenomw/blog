@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Akhirnya mulai nulis
-subtitle: ... setelah sekian lama
+published: true
+date: '2017-02-04'
 ---
 
 Setelah sekian lama (mungkin dari jaman kuliah pas lagi semangat-semangatnya bikin github static page)
