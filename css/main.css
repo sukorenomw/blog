@@ -346,6 +346,7 @@ footer .theme-by {
 }
 .post-entry {
   width: 100%;
+  text-align: justify;
 }
 .post-image {
   float: right;
@@ -497,6 +498,9 @@ footer .theme-by {
   right: 0;
   bottom: 0;
   display: none;
+}
+.blog-post {
+  text-align: justify;
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
