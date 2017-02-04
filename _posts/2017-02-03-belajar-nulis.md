@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Belajar nulis markdown
+tags: [tutorial]
 ---
 
 yah, walaupun ini cuman copas, seenggaknya ada dokumentasi buat di liat-liat lagi kalau mau nulis yang lain.
