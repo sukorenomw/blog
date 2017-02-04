@@ -28,3 +28,5 @@ Lalu sempat cari-cari tutorial di google, ada beberapa tutorial, tapi hampir sem
 
         baseurl: "/blog"
         production_url : http://<username>.github.io/blog
+        
+dan voila .. setelah itu, kita bisa akses [https://sukorenomw.github.io/blog](https://sukorenomw.github.io/blog)
