@@ -4,10 +4,10 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://sukorenomw.github.io.com/blog"
+url: "https://sukorenomw.github.io/blog"
 baseurl: "/blog"
-production_url : http://<username>.github.io.com/blog
-BASE_PATH : http://<username>.com/blog
+production_url : https://<username>.github.io/blog
+BASE_PATH : https://<username>.github.io/blog
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
