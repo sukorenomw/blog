@@ -3,7 +3,8 @@ layout: post
 title: How to setup jekyll in subdirectory in github pages
 published: true
 date: '2017-02-04'
-tags: [tutorial]
+tags:
+  - tutorial
 ---
 Sebelum bikin blog menggunakan jekyll pada github pages ini, sebelumnya saya sudah pernah buat github static page (without jekyll, only using html js and css). Jadi karena sudah terlanjut punya static page yang saya gunakan untuk portofolio online yang bisa di akses [disini](https://sukorenomw.github.io). Rasanya sayang untuk bikin github page ini jadi full jekyll (belum lagi mikirin bagaimana mindahin portfolio yang sudah ada ini ke format jekyll).
 
@@ -26,7 +27,4 @@ Lalu sempat cari-cari tutorial di google, ada beberapa tutorial, tapi hampir sem
 4. ternyata ini bagian paling penting, kita harus mengubah beberapa setting di **config.yml**
 
         baseurl: "/blog"
-        production_url : http://<username>.github.io.com/blog
-
-
-
+        production_url : http://<username>.github.io/blog
