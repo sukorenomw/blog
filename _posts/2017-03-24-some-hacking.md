@@ -1,7 +1,8 @@
 ---
 layout: post
-published: true
+published: false
 title: 'Some hacking ? '
+tags: security
 ---
 Setelah sekian lama belum nulis lagi, akhirnya ada niat untuk nulis, kali ini cuman akan ngelist beberapa hacking tools dan istilah hacking yang beberapa bulan ke belakang sedang saya explorasi. 
 
