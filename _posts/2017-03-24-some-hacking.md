@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Some hacking ? '
 ---
 Setelah sekian lama belum nulis lagi, akhirnya ada niat untuk nulis, kali ini cuman akan ngelist beberapa hacking tools dan istilah hacking yang beberapa bulan ke belakang sedang saya explorasi. 
