@@ -42,4 +42,4 @@ list-list yang baru-baru ini di eksplorasi sebenarnya bukan merupakan bug-bug at
 ### Tools:
 - [apktool](https://ibotpeaches.github.io/Apktool/)
 
-Tools-tools yang saya tulis diatas, tidak sepenuhnya bisa membuat hacking menjadi sangat mudah, tetapi tools tersebut bisa memudahkan untuk mendapatkan informasi
+Tools-tools yang saya tulis diatas, tidak sepenuhnya bisa membuat hacking menjadi sangat mudah, tetapi tools tersebut bisa memudahkan untuk mendapatkan informasi. Apa yang saya bagikan kali ini ada baiknya digunakan dengan bijak. 
